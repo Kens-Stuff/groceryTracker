@@ -1,0 +1,5 @@
+﻿  ItemNode.cpp
+  Project3.cpp
+U:\Project3\Project3\Project3.cpp(17,15): warning C4101: 'newNode': unreferenced local variable
+  Generating Code...
+  Project3.vcxproj -> U:\Project3\Debug\Project3.exe
